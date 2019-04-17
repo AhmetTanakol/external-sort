@@ -1,7 +1,3 @@
-Name: < Tanakol, Ahmet >
-
-Matriculation number: 03691681
-
 # External Sort
 
 Implement the external sort algorithm. It should take an input file that
