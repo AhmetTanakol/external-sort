@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/ahmettanakol/projects/moderndb/task-external-sort/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/ahmettanakol/projects/moderndb/task-external-sort/include -isystem /Users/ahmettanakol/projects/moderndb/task-external-sort/cmake-build-debug/vendor/gtm/gtest/include -isystem /Users/ahmettanakol/projects/moderndb/task-external-sort/cmake-build-debug/vendor/gflags/include -isystem /Users/ahmettanakol/projects/moderndb/task-external-sort/cmake-build-debug/vendor/gtm/gmock/include  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -Wall -Wextra -std=gnu++1z -o CMakeFiles/tester.dir/test/tester.cc.o -c /Users/ahmettanakol/projects/moderndb/task-external-sort/test/tester.cc",
+  "file": "/Users/ahmettanakol/projects/moderndb/task-external-sort/test/tester.cc"
+},
+{
+  "directory": "/Users/ahmettanakol/projects/moderndb/task-external-sort/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/ahmettanakol/projects/moderndb/task-external-sort/include -isystem /Users/ahmettanakol/projects/moderndb/task-external-sort/cmake-build-debug/vendor/gtm/gtest/include -isystem /Users/ahmettanakol/projects/moderndb/task-external-sort/cmake-build-debug/vendor/gflags/include -isystem /Users/ahmettanakol/projects/moderndb/task-external-sort/cmake-build-debug/vendor/gtm/gmock/include  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -Wall -Wextra -std=gnu++1z -o CMakeFiles/tester.dir/test/external_sort_test.cc.o -c /Users/ahmettanakol/projects/moderndb/task-external-sort/test/external_sort_test.cc",
+  "file": "/Users/ahmettanakol/projects/moderndb/task-external-sort/test/external_sort_test.cc"
+},
+{
+  "directory": "/Users/ahmettanakol/projects/moderndb/task-external-sort/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/ahmettanakol/projects/moderndb/task-external-sort/include -I/Users/ahmettanakol/projects/moderndb/task-external-sort/cmake-build-debug/vendor/gtm/gtest/include -isystem /Users/ahmettanakol/projects/moderndb/task-external-sort/cmake-build-debug/vendor/gflags/include  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -Wall -Wextra -std=gnu++1z -o CMakeFiles/external_sort.dir/tools/external_sort.cc.o -c /Users/ahmettanakol/projects/moderndb/task-external-sort/tools/external_sort.cc",
+  "file": "/Users/ahmettanakol/projects/moderndb/task-external-sort/tools/external_sort.cc"
+},
+{
+  "directory": "/Users/ahmettanakol/projects/moderndb/task-external-sort/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/ahmettanakol/projects/moderndb/task-external-sort/include -I/Users/ahmettanakol/projects/moderndb/task-external-sort/cmake-build-debug/vendor/gtm/gtest/include -isystem /Users/ahmettanakol/projects/moderndb/task-external-sort/cmake-build-debug/vendor/gflags/include  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -Wall -Wextra -std=gnu++1z -o CMakeFiles/moderndbs.dir/src/external_sort.cc.o -c /Users/ahmettanakol/projects/moderndb/task-external-sort/src/external_sort.cc",
+  "file": "/Users/ahmettanakol/projects/moderndb/task-external-sort/src/external_sort.cc"
+},
+{
+  "directory": "/Users/ahmettanakol/projects/moderndb/task-external-sort/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/ahmettanakol/projects/moderndb/task-external-sort/include -I/Users/ahmettanakol/projects/moderndb/task-external-sort/cmake-build-debug/vendor/gtm/gtest/include -isystem /Users/ahmettanakol/projects/moderndb/task-external-sort/cmake-build-debug/vendor/gflags/include  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -Wall -Wextra -std=gnu++1z -o CMakeFiles/moderndbs.dir/src/file/posix_file.cc.o -c /Users/ahmettanakol/projects/moderndb/task-external-sort/src/file/posix_file.cc",
+  "file": "/Users/ahmettanakol/projects/moderndb/task-external-sort/src/file/posix_file.cc"
+}
+]
